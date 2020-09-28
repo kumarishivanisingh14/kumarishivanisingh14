@@ -1,10 +1,9 @@
 ### Hello Visitor! 👋 I am Kumari Shivani Singh 👩🏻‍💻
-<img src="https://i.pinimg.com/originals/ad/1d/4a/ad1d4a6657e086e9a8caea6adf97b7d2.gif">
 - 🔭 I’m currently working on my personal MERN Projects
 - 🌱 I’m currently learning MERN Stack Web Development
 - 👯 I’m looking to collaborate on Open Source Web Development Projects
 - 💬 Ask me about JS and tech related stuffs
-- 📫 How to reach me: Twitter @KShivaniSingh
+- 📫 How to reach me: ![Twitter @KShivaniSingh](https://twitter.com/KShivaniSingh)
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I am a big time Potterhead ⚡🦄 and love watching dog videos 🐶
 
