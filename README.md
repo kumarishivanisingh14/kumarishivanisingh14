@@ -3,7 +3,6 @@
 - 🔭 I’m currently working on my personal MERN Projects
 - 🌱 I’m currently learning MERN Stack Web Development
 - 👯 I’m looking to collaborate on Open Source Web Development Projects
-- 🤔 I’m looking for help with ...
 - 💬 Ask me about JS and tech related stuffs
 - 📫 How to reach me: Twitter @KShivaniSingh
 - 😄 Pronouns: She/Her
