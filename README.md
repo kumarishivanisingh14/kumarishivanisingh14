@@ -1,5 +1,5 @@
 ### Hello Visitor! 👋 I am Kumari Shivani Singh 👩🏻‍💻
-- 🔭 I’m currently working on my personal MERN Projects
+- 🔭 I’m currently working on DevCamper
 - 🌱 I’m currently learning MERN Stack Web Development
 - 👯 I’m looking to collaborate on Open Source Web Development Projects
 - 💬 Ask me about JS and tech related stuffs
