@@ -1,8 +1,8 @@
 ![Hello](Hello.gif)
 ## Kumari Shivani Singh 👩🏻‍💻
 - 🔭 Currently hustling to build my future. 
-- 💬 Linkedin: [LinkedIn - Kumari Shivani Singh](https://www.linkedin.com/in/kumarishivanisingh/)
-- 📫 Twitter: [Twitter - @KShivaniSingh](https://twitter.com/KShivaniSingh)
+- 💬 [LinkedIn - Kumari Shivani Singh](https://www.linkedin.com/in/kumarishivanisingh/)
+- 📫 [Twitter - @KShivaniSingh](https://twitter.com/KShivaniSingh)
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I am a big time Potterhead ⚡🦄 and love watching dog videos 🐶
 
