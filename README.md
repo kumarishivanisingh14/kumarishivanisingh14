@@ -1,10 +1,8 @@
 ![Hello](Hello.gif)
 ## Kumari Shivani Singh 👩🏻‍💻
-- 🔭 I’m currently working on [devcamper_api] (https://github.com/kumarishivanisingh14/devcamper_api)
-- 🌱 I’m currently learning MERN Stack Web Development
-- 👯 I’m looking to collaborate on Open Source Web Development Projects
-- 💬 Ask me about JS and tech related stuffs
-- 📫 How to reach me: [Twitter - @KShivaniSingh](https://twitter.com/KShivaniSingh)
+- 🔭 Currently hustling to build my future. 
+- 💬 Linkedin: [LinkedIn - Kumari Shivani Singh](https://www.linkedin.com/in/kumarishivanisingh/)
+- 📫 Twitter: [Twitter - @KShivaniSingh](https://twitter.com/KShivaniSingh)
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I am a big time Potterhead ⚡🦄 and love watching dog videos 🐶
 
