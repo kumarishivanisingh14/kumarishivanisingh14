@@ -3,7 +3,6 @@
 - 🔭 Currently hustling to build my future. 
 - 💬 [LinkedIn - Kumari Shivani Singh](https://www.linkedin.com/in/kumarishivanisingh/)
 - 📫 [Twitter - @KShivaniSingh](https://twitter.com/KShivaniSingh)
-- 😄 Pronouns: She/Her
 - ⚡ Fun fact: I am a big time Potterhead ⚡🦄 and love watching dog videos 🐶
 
 <a href="https://github.com/kumarishivanisingh14/kumarishivanisingh14">
